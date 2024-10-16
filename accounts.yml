@@ -27,11 +27,7 @@ accounts :
   onCallSupport :
     "GREAAAAAAT"
 
-  management:
-  endpoints:
-    web:
-      exposure:
-        include: "*"
+ 
 
 
 
