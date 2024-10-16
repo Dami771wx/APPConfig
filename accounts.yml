@@ -27,5 +27,11 @@ accounts :
   onCallSupport :
     "LLLLLLLLLLL"
 
+  management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
 
 
