@@ -13,6 +13,14 @@ info:
     name : "microTest1"
     description: "Test1 microservices"
     version : "1.0.0"
+eureka :
+  instance:
+    prefer-ip-address: true
+  client :
+    fetchRegistry: true
+    registerWithEureka: true
+    serviceUrl:
+      defaultZone: http://localhost:8070/eureka/
 
  
 
