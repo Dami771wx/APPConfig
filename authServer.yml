@@ -22,7 +22,7 @@ server:
 
 
 authserver :
-  message : "auth Server API contact"
+  message : "auth Server API contact V2"
   contactDetails:
     name : "imad samadi"
     email : "{cipher}90b155f3743514cc4af48e0eb0b54d08156ee37016559ac988d9bafb4f7c5950a7e2fcecccb54510bbc04d9a97779119"
