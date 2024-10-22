@@ -11,13 +11,7 @@ microtest2 :
   onCallSupport :
     "+212 684738968"
 
-  info:
-  app :
-    name : "microTest2"
-    description: "Test2 microservices"
-    version : "1.0.0"
-
-  eureka :
+eureka :
   instance:
     prefer-ip-address: true
   client :
@@ -25,3 +19,11 @@ microtest2 :
     registerWithEureka: true
     serviceUrl:
       defaultZone: http://localhost:8070/eureka/
+
+  info:
+  app :
+    name : "microTest2"
+    description: "Test2 microservices"
+    version : "1.0.0"
+
+  
