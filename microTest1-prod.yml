@@ -2,7 +2,7 @@
 
 
 
-accounts :
+microtest1 :
   message : "this the production env for MICROTEST1 API"
   contactDetails:
     name : "imad"
