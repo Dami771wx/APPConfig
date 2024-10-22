@@ -1,6 +1,6 @@
 
 
-accounts :
+microtest2 :
   message : "MICROTEST1 API DEFAULT PROFILE"
   contactDetails:
     name : "imad samadi"
